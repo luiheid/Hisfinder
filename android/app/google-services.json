@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231428358765",
+    "project_id": "hisfinder-38099",
+    "storage_bucket": "hisfinder-38099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231428358765:android:5e07d078fdbb46926e3564",
+        "android_client_info": {
+          "package_name": "com.example.sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231428358765-99oiq4jkmgqatneejo5tfi590bqnnuoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_in",
+            "certificate_hash": "29f5eb6ec97cc86b6375f050599af3220a8e669d"
+          }
+        },
+        {
+          "client_id": "231428358765-i4eqp0vk78npnp4usvgrkjmnui372h7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MZvXUEiP_s28uPFOQJLLEjSob5YzVYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231428358765-i4eqp0vk78npnp4usvgrkjmnui372h7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
