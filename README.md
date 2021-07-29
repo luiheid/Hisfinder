@@ -1,6 +1,7 @@
 # CRA 2021-1 vacation project - HISFINDER
 
 A new application project with Flutter and Firebase.
+This application is for the Lost and Found function for Handong Global University
 
 ## Getting Started
 
