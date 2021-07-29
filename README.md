@@ -1,6 +1,6 @@
-# sign_in
+# CRA 2021-1 vacation project - HISFINDER
 
-A new Flutter project.
+A new application project with Flutter and Firebase.
 
 ## Getting Started
 
